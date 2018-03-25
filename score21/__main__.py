@@ -10,7 +10,7 @@ class Card:
         if self.rank in 'TJQK':
             return 10
         else:
-            return 'A23456789'.index(self.rank)
+            return 'A23456789'.index(self.rank) + 1
 
     def get_rank(self):
         return self.rank

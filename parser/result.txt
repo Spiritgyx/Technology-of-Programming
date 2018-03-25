@@ -1,0 +1,17 @@
+"C:\Program Files\Python\Python36\python.exe" C:/Users/student.ZSS/PycharmProjects/parser/__main__.py
+C:\Program Files\Python\Python36\lib\site-packages\bs4\__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 71 of the file C:/Users/student.ZSS/PycharmProjects/parser/__main__.py. To get rid of this warning, change code that looks like this:
+
+ BeautifulSoup(YOUR_MARKUP})
+
+to this:
+
+ BeautifulSoup(YOUR_MARKUP, "html.parser")
+
+  markup_type=markup_type))
+
+Всего найдено 0 страниц...
+Сохранение...
+
+Process finished with exit code 0
