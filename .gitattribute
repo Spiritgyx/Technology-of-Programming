@@ -1,2 +1,2 @@
-static/* linguist-vendored
-linguist-language=Python
+static/*.py linguist-vendored
+
