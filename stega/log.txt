@@ -1,0 +1,28 @@
+C:\Users\gyxep\AppData\Local\Programs\Python\Python35-32\python.exe H:/0python/Technology-of-Programming/stega/__main__.py
+Select mode [r - read, w - write, z - zip write, q - quit] (default 'r'):
+w
+Enter path to image:
+./img_text.jpg
+Write the text:
+Hello, Bonch!
+[+] File: ./img_text.jpg successfully overwritten!
+Select mode [r - read, w - write, z - zip write, q - quit] (default 'r'):
+r
+Enter path to image:
+./img_text.jpg
+b'\xff'b'\xff'b'\xff'b'\xff' JFIF         ;CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 90
+
+
+ C 
+
+
+ "            
+     } !1AQa"q222#BBBRRR$3brr
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz        
+    w !1AQaq"2BBBBB	#3RRbrr
+111=@1111Z\\llX????H=IIIIIII# WOc6SSbb#rr'<<<ZZyyqqqqqqqqqq			i;;jjPPo09]]..:::bbbLbbjiiijjjjjEldd55mmmjjBee##G___hhhhOzzzzzzmmmm?yyyyyyyZZ5	Dr/=88wrrrrFkh33I.o,,sQB<<<SSS2 qqWEEc###kev#Q@<<[;aaa^**j''*zzzyytFVGGG77dtt_WWWWWWWIooow~I99\\  :a;;;;tttqqqqz[c,,bNOJJJJJ---Si===1IIVV{///NNNY00++++99999z....77++++088JJJHHfffTT888SSS
+
+<<<КУЧА ДАННЫХ ПО КАРТИНКЕ>>>
+
+((((((((((Sb~r3E(([*2FrMQQEDKr	#TT\\\\+t)0JJx11(([[((hhhhhhhHello, Bonch!
+[+] Number of bytes in the './img_text.jpg': 20550

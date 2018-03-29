@@ -1,0 +1,11 @@
+C:\Python36\python.exe C:/Users/student.ZSS/PycharmProjects/parser_tor/parser.py
+---------------------------------------------------------------
+[*] IP your network:
+91.238.230.93
+---------------------------------------------------------------
+[!] Connecting to the Tor network /...../
+[x] Stopping connect to the Tor network
+---------------------------------------------------------------
+[!] Uniform Resource Locator:
+http://zss.sut.ru
+---------------------------------------------------------------
