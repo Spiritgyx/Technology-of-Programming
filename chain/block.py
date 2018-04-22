@@ -3,6 +3,7 @@ import datetime as date
 
 
 # Define what a Snakecoin block is
+
 class Block:
     def __init__(self, index, timestamp, data, previous_hash):
         self.index = index
