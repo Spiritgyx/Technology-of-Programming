@@ -10,10 +10,10 @@ clients = []
 s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 s.bind((host, port))
 
-quit = False
+quitFlag = False
 print("[ Server Started ]")
 
-while not quit:
+while not quitFlag:
     try:
         data, addr = s.recvfrom(1024)
 
@@ -30,6 +30,6 @@ while not quit:
                 s.sendto(data, client)
     except:
         print("\n[ Server Stopped ]")
-        quit = True
+        quitFlag = True
 
 s.close()

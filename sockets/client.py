@@ -47,8 +47,8 @@ alias = input("Name: ")
 rT = threading.Thread(target=receving, args=("RecvThread", s))
 rT.start()
 
-while shutdown == False:
-    if join == False:
+while not shutdown:
+    if not join:
         s.sendto(("[" + alias + "] => join chat ").encode("utf-8"), server)
         join = True
     else:
